@@ -200,18 +200,6 @@ nlp-functional-topic/
 
 ---
 
-##  Suggested Timeline (6 Weeks)
-
-| Week | Goal | Deliverables |
-|------|------|--------------|
-| 1 | Data collection + spaCy preprocessing | Tokenized corpus |
-| 2 | Auto-label + manual cleanup | Labeled CSV |
-| 3 | Train FUNC model (baseline + eval) | F1 report |
-| 4 | Train Topic model + cross-check | Topic F1 report |
-| 5 | Build FastAPI + Next.js UI | Working local app |
-| 6 | Deploy & write documentation | Online demo + README |
-
----
 
 ##  Expected Outcomes
 - A working **web app** that detects logical connectors and classifies content words by topic.  

@@ -32,7 +32,7 @@ and **classifies content words** into **semantic topics** like *Health*, *Fashio
 
 ---
 
-## 🧠 Features
+## Features
 - **Functional Word Detection** → highlights logical connectors.  
 - **Topic Classification** → groups content words by theme.  
 - **Interactive Web UI** → color-coded highlights and topic summaries.  
@@ -40,7 +40,7 @@ and **classifies content words** into **semantic topics** like *Health*, *Fashio
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 nlp-functional-topic/
@@ -58,7 +58,7 @@ nlp-functional-topic/
 
 ---
 
-## 🧩 Quick Start (local)
+## Quick Start (local)
 ```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/nlp-functional-topic.git
@@ -78,18 +78,18 @@ npm run dev
 
 ---
 
-## 📚 Documentation
+## Documentation
 See the full project plan, dataset pipeline, and deployment roadmap in:  
 📄 [`docs/PROJECT_PLAN.md`](docs/PROJECT_PLAN.md)
 
 ---
 
-## 🧾 License
+## License
 Released under the **MIT License** — for educational and non-commercial use.
 
 ---
 
-## 👤 Author
+## Author
 **Vũ Minh Thành**  
 AI & NLP Enthusiast | HCMUIT Student  
 
